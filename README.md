@@ -2,11 +2,11 @@
 手写 currify / promise / bind / Deep copy / EventHub
 
 ## TodoList
-* [x] [Currify](https://github.com/ylzon/handwriting-javascript/blob/master/currify/index.js)
+* [x] [Currify](https://github.com/ylzon/handwriting-javascript/blob/master/src/currify/index.js)
+* [ ] [EventHub](https://github.com/ylzon/handwriting-javascript/blob/master/src/event-bus/index.js)
 * [ ] Promise/A+
 * [ ] bind
 * [ ] DeepCopy
-* [ ] EventHub
 
 ## LICENSE
 [MIT](LICENSE)
