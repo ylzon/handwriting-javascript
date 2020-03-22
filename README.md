@@ -3,10 +3,10 @@
 
 ## TodoList
 * [x] [Currify](https://github.com/ylzon/handwriting-javascript/blob/master/src/currify/index.js)
-* [ ] [EventHub](https://github.com/ylzon/handwriting-javascript/blob/master/src/event-bus/index.js)
-* [ ] Promise/A+
-* [ ] bind
+* [x] [EventHub](https://github.com/ylzon/handwriting-javascript/blob/master/src/event-bus/index.js)
 * [ ] DeepCopy
+* [ ] bind
+* [ ] Promise/A+
 
 ## LICENSE
 [MIT](LICENSE)

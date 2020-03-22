@@ -13,7 +13,7 @@ const currify = (fn, params = []) =>
       
 
 // ES5
-function currify (fn, paramsArg) {
+function currifyES5 (fn, paramsArg) {
   var params = paramsArg || []
   return function() {
     var args = arguments
@@ -21,4 +21,6 @@ function currify (fn, paramsArg) {
         ? fn(...args, ...params)
         : currify(fn, [...params, ...args])
   }
-}  
+}
+
+export default currify
