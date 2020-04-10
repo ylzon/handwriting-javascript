@@ -1,0 +1,35 @@
+{
+  "name": "handwriting-javascript",
+  "version": "1.0.0",
+  "description": "手写 currify / promise / bind / Deep copy / EventHub",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register test/**/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylzon/handwriting-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylzon/handwriting-javascript/issues"
+  },
+  "homepage": "https://github.com/ylzon/handwriting-javascript#readme",
+  "devDependencies": {
+    "@types/chai": "^4.2.11",
+    "@types/mocha": "^7.0.2",
+    "@types/sinon": "^9.0.0",
+    "@types/sinon-chai": "^3.2.4",
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.2",
+    "sinon-chai": "^3.5.0",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  }
+}
