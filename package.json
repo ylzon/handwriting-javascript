@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/ylzon/handwriting-javascript/issues"
   },
+  "lib": ["es6"],
   "homepage": "https://github.com/ylzon/handwriting-javascript#readme",
   "devDependencies": {
     "@types/chai": "^4.2.11",
