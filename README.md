@@ -20,7 +20,7 @@ npm install
 npm run test
 ```
 
-```shell
+```
   Bind
     ✓ should Bind is Function
     ✓ should function bind exist
